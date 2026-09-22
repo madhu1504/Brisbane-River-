@@ -61,7 +61,7 @@ Temperature swings from ~18.6 °C (June, austral winter) to ~28.3 °C (February,
 austral summer). Dissolved oxygen moves in the opposite direction, exactly as
 expected from oxygen solubility physics.
 
-![Time series](madhu/repo/figures/01_timeseries.png)
+![Time series](Users/madhu/repo/figures/01_timeseries.png)
 
 ### 2. Dissolved oxygen is inversely tied to temperature
 Across the record, temperature and dissolved oxygen correlate at **r = −0.38**
